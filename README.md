@@ -26,7 +26,7 @@
 - Intel HD 5500 Acceleration
 - CPU Power Management
 - Battery Status / Time
-- Intel Wireless & Bluetooth (Partially)
+- Intel Wireless & Bluetooth 
 - Ethernet LAN
 - Audio Combo Jack
 - Keyboard & Media/Function Keys
@@ -40,7 +40,6 @@
 
 ## Not Working
 - DRM (No HD playback on Netflix etc)
-- Bluetooth (Not sure why)
 - WiFi when booting in BootCamp
 
 ## Kexts
